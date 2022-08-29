@@ -40,3 +40,12 @@
   margin-bottom: 15px;
 }
 
+.product > button:hover{
+  transform: scale(1.15);
+  transition-duration: 0.7s;
+  background-color: rgb(233, 171, 14);
+}
+
+.product > img:hover{
+  opacity: .6;
+}

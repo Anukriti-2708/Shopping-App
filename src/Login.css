@@ -64,3 +64,15 @@
     margin-top: 10px;
     border-color: darkgray;
   }
+
+  .login__registerButton:hover{
+    transform: scale(1.1);
+    transition-duration: 0.9s;
+    background-color: #f0c14b;
+  }
+
+  .login__signInButton:hover{
+    transform: scale(1.1);
+    transition-duration: 0.9s;
+    background-color: aliceblue;
+  }
